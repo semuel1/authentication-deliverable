@@ -1,5 +1,5 @@
 # Authentication practice
-Your mission is to build the exact same app we did today in class. In case of emergency, a sample solution can be found here: https://github.com/pmacaluso3/intro-to-authentication. Your app should have the following user stories:
+Your mission is to build the exact same app we did today in class. In case of emergency, a sample solution can be found here: https://github.com/SEI-SEA-1-25/intro-to-authentication-soln. Your app should have the following user stories:
 
 ## Core goals
 1. Links to Log In and Sign Up are in the nav bar.
