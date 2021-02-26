@@ -1,0 +1,23 @@
+{
+  "name": "authentication-deliverable",
+  "description": "Your mission is to build the exact same app we did today in class. In case of emergency, a sample solution can be found here: https://github.com/SEI-SEA-1-25/intro-to-authentication-soln. Your app should have the following user stories:",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/semuel1/authentication-deliverable.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/semuel1/authentication-deliverable/issues"
+  },
+  "homepage": "https://github.com/semuel1/authentication-deliverable#readme",
+  "dependencies": {
+    "pg": "^8.5.1",
+    "sequelize": "^6.5.0"
+  }
+}
